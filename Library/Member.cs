@@ -45,7 +45,7 @@ namespace Library
             this.Phone = phone;
         }
 
-        public void DisplayMember()
+        public void DisplayInfo()
         {
             Console.WriteLine($"Member ID: {MemberId}");
             Console.WriteLine($"Member Name: {Name}");
